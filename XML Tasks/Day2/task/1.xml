@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<family>
+	<grandfather> gamal
+		 <father job=" Engineer">mohamed
+			<mother>tia</mother>
+			<son age= "20yearsold" sport="football">yasser</son>
+			<doughter age= "25 yearsold" job="Engineer">nora</doughter>
+		</father>
+		<uncle>khaled</uncle>
+		<uncle>eslam</uncle>
+		<aunt sons="ibrahim ">ola</aunt>
+
+	</grandfather>
+
+</family>

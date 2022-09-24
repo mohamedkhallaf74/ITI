@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<family xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\DB-ITI\XML\1sc.xml">
+	<grandfather> gamal
+		 <father job="Engineer">mohamed
+			<mother>tia</mother>
+			<son age="20" sport="football">yasser</son>
+			<doughter age="25 " job="Engineer">nora</doughter>
+		</father>
+		<uncle>khaled</uncle>
+		<uncle>eslam</uncle>
+		<aunt sons="ibrahim">ola</aunt>
+	</grandfather>
+</family>
